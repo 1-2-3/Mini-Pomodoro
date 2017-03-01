@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniPomodoro", "MiniPomodoro\MiniPomodoro.csproj", "{D7C62059-CBFA-4894-9E9A-18F608B82AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7C62059-CBFA-4894-9E9A-18F608B82AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C62059-CBFA-4894-9E9A-18F608B82AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C62059-CBFA-4894-9E9A-18F608B82AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C62059-CBFA-4894-9E9A-18F608B82AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
